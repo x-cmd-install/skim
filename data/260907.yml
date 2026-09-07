@@ -1,0 +1,180 @@
+about:
+  description: "Fuzzy Finder in rust!"
+  license: MIT
+  homepage: https://crates.io/crates/skim
+  head: 801d1ab
+  archived: false
+  latestVersion: "v5.6.6"
+  collectedAt: 2026-09-07T04:49:56Z
+timeline:
+  created: 2016-05-29
+  lastCommit: 2026-09-06
+  lastRelease: 2026-08-22
+popularity:
+  star: 6943
+  watcher: 28
+  fork: 256
+  release: 154
+  contributor: 102
+  pullRequest: 676
+  issue: 484
+language:
+  Rust: 1528793
+  Shell: 77400
+  Vim Script: 29097
+  Nushell: 9607
+  Just: 3743
+  Nix: 2447
+  Dockerfile: 210
+totalBytes: 1651297
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 3
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-09
+    release: 17
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last90d:
+    since: 2026-06-09
+    release: 21
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last180d:
+    since: 2026-03-11
+    release: 33
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last360d:
+    since: 2025-09-12
+    release: 86
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 154
+  mergedPR: 547
+  openPR: 1
+  closedIssue: 479
+  openIssue: 5
+  commit: 1743
+---
+path: /home/runner/.x-repo/github.com/lotabout/skim
+collectedAt: 2026-09-07T04:50:01Z
+loc:
+  Rust:
+    code: 32571
+    comments: 3006
+    blanks: 4674
+    files: 150
+  Bash:
+    code: 953
+    comments: 66
+    blanks: 72
+    files: 3
+  VimScript:
+    code: 856
+    comments: 28
+    blanks: 61
+    files: 1
+  Zsh:
+    code: 564
+    comments: 33
+    blanks: 48
+    files: 2
+  Toml:
+    code: 299
+    comments: 58
+    blanks: 34
+    files: 5
+  Fish:
+    code: 294
+    comments: 29
+    blanks: 23
+    files: 2
+  Nix:
+    code: 77
+    comments: 2
+    blanks: 6
+    files: 1
+  Dockerfile:
+    code: 6
+    comments: 0
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2901
+    blanks: 1365
+    files: 6
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 35851
+  comments: 9006
+  blanks: 6807
+  files: 172
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T04:50:01+00:00
+  platform:
+    darwin/arm64:
+      name:  skim-aarch64-apple-darwin.tar.xz
+      url:   https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-aarch64-apple-darwin.tar.xz
+      size:  1849756
+      score: 45
+    darwin/amd64:
+      name:  skim-x86_64-apple-darwin.tar.xz
+      url:   https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-apple-darwin.tar.xz
+      size:  2411740
+      score: 45
+    linux/arm64:
+      name:  skim-aarch64-unknown-linux-gnu.tar.xz
+      url:   https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-aarch64-unknown-linux-gnu.tar.xz
+      size:  1952104
+      score: 45
+    linux/amd64:
+      name:  skim-x86_64-unknown-linux-gnu.tar.xz
+      url:   https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-unknown-linux-gnu.tar.xz
+      size:  2503828
+      score: 45
+    win/arm64:
+      name:  skim_5.6.6-1_arm64.deb
+      url:   https://github.com/skim-rs/skim/releases/download/v5.6.6/skim_5.6.6-1_arm64.deb
+      size:  1947516
+      score: 15
+    win/amd64:
+      name:  skim-x86_64-pc-windows-msvc.zip
+      url:   https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-pc-windows-msvc.zip
+      size:  3791100
+      score: 45
