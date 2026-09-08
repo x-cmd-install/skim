@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1849756,
       "digest": "sha256:3124a02d4c14fbfdfcbbac6b27258fc4c719fde1309e760961ef36245712e761",
-      "download_count": 163,
+      "download_count": 164,
       "created_at": "2026-08-22T16:04:42Z",
       "updated_at": "2026-08-22T16:04:42Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-aarch64-apple-darwin.tar.xz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 2411740,
       "digest": "sha256:393434f0e116848c6b4dc1358e3c815c4a1551821985e689874a47e3562f7952",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-08-22T16:04:43Z",
       "updated_at": "2026-08-22T16:04:43Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-apple-darwin.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2503828,
       "digest": "sha256:46b7903b763dfbe14b8cc68ac0ddcd1bbd6e5b14d30a7ff02f2fbf7f829d999d",
-      "download_count": 749,
+      "download_count": 756,
       "created_at": "2026-08-22T16:04:43Z",
       "updated_at": "2026-08-22T16:04:44Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-unknown-linux-gnu.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 2573876,
       "digest": "sha256:858e59f72c16fbe32b95987b90e31a14df1c592b4ca1a88821f0e044c9b5602d",
-      "download_count": 129,
+      "download_count": 131,
       "created_at": "2026-08-22T16:04:43Z",
       "updated_at": "2026-08-22T16:04:44Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.6.6/skim-x86_64-unknown-linux-musl.tar.xz"
