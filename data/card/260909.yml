@@ -7,7 +7,7 @@ about:
   latestVersion: "v5.7.0"
   latestRelease: "v5.7.0"
   latestPrerelease: "v1.7.1"
-  collectedAt: 2026-09-09T04:58:58Z
+  collectedAt: 2026-09-09T19:06:12Z
 timeline:
   created: 2016-05-29
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-01-25
 popularity:
-  star: 6945
+  star: 6946
   watcher: 28
   fork: 257
   release: 155
@@ -89,7 +89,7 @@ total:
   commit: 1746
 ---
 path: /home/runner/.x-repo/github.com/lotabout/skim
-collectedAt: 2026-09-09T04:59:02Z
+collectedAt: 2026-09-09T19:06:16Z
 loc:
   Rust:
     code: 32680
