@@ -12,6 +12,28 @@ Fuzzy Finder in rust!
 x install skim
 ```
 
+## Code insight
+
+Total: **35,729** lines of code across **161** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 32,680 | 3,006 | 4,692 | 150 |
+| Bash | 953 | 66 | 72 | 3 |
+| VimScript | 856 | 28 | 61 | 1 |
+| Zsh | 564 | 33 | 48 | 2 |
+| Toml | 299 | 58 | 34 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 5/20 approved changesets -- score normalized to 2
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/lotabout/skim>
@@ -23,6 +45,25 @@ x install skim
 - **Latest**: `v5.7.0` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 26
+
+## Popularity
+
+- **Stars**: 6,948 · **Forks**: 257 · **Open issues**: 485 · **Contributors**: 102
+
+## Totals (cumulative)
+
+- **Releases**: 155 · **Merged PRs**: 549 · **Open PRs**: 0 · **Closed issues**: 480 · **Open issues**: 5 · **Commits**: 1746
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-12 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-13 | 17 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-13 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-15 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-16 | 87 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-21 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -55,44 +96,6 @@ x install skim
 | [source.tar.gz](https://github.com/lotabout/skim/releases/download/v5.7.0/source.tar.gz) | 1.2 MiB | `native/unknown` |
 | [source.tar.gz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/source.tar.gz.sha256) | 81 B | `other` |
 
-## Popularity
-
-- **Stars**: 6,947 · **Forks**: 257 · **Open issues**: 485 · **Contributors**: 102
-
-## Totals (cumulative)
-
-- **Releases**: 155 · **Merged PRs**: 549 · **Open PRs**: 0 · **Closed issues**: 480 · **Open issues**: 5 · **Commits**: 1746
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 22 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 87 | 0 | 0 | 0 | 0 | 0 |
-
-## Code size
-
-Total: **35,729** lines of code across **161** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 32,680 | 3,006 | 4,692 | 150 |
-| Bash | 953 | 66 | 72 | 3 |
-| VimScript | 856 | 28 | 61 | 1 |
-| Zsh | 564 | 33 | 48 | 2 |
-| Toml | 299 | 58 | 34 | 5 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.6 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 5/20 approved changesets -- score normalized to 2
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
-
 ## Improve this data
 
 Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `skim` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -102,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:38:59Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:11:13Z._
