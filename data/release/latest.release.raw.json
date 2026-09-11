@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1862808,
       "digest": "sha256:da022b0143498df35a42dcd5859c86afcc2803ccaf936e5f8e15aed93eece07c",
-      "download_count": 53,
+      "download_count": 57,
       "created_at": "2026-09-08T15:10:43Z",
       "updated_at": "2026-09-08T15:10:43Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-aarch64-apple-darwin.tar.xz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:9a922c1f6715c71cc2184ac35917720aea5fbc2bbb58f711a8b10ea08f71e01d",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-08T15:10:44Z",
       "updated_at": "2026-09-08T15:10:44Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:3a82c344ab1ad26962b0ba151fbaa910df9fa25a9e9480c42be081dcce2e1ee6",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-08T15:10:44Z",
       "updated_at": "2026-09-08T15:10:44Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-aarch64-unknown-linux-musl.tar.xz.sha256"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3817445,
       "digest": "sha256:0452cd0733b939df1f34b278a3e8d783bd2012341d39d6ad61e31d9dfdbd542c",
-      "download_count": 87,
+      "download_count": 92,
       "created_at": "2026-09-08T15:10:45Z",
       "updated_at": "2026-09-08T15:10:45Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-x86_64-pc-windows-msvc.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2521780,
       "digest": "sha256:a2f2998490ddb1fed853dcdfad9f484095c26217492ef3a140d7dbec6b396acb",
-      "download_count": 177,
+      "download_count": 185,
       "created_at": "2026-09-08T15:10:45Z",
       "updated_at": "2026-09-08T15:10:46Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-gnu.tar.xz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 2590556,
       "digest": "sha256:73df0c2d65697a82bc1b1670f1b1858bf60f1d8d70976fcc38e660c560de1a00",
-      "download_count": 32,
+      "download_count": 33,
       "created_at": "2026-09-08T15:10:45Z",
       "updated_at": "2026-09-08T15:10:46Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-musl.tar.xz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:0b9ef68149702bd7d271429174267b4a62f2049db5567c06be0e3ffe30f15b0b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-08T15:10:45Z",
       "updated_at": "2026-09-08T15:10:46Z",
       "browser_download_url": "https://github.com/skim-rs/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-musl.tar.xz.sha256"
