@@ -30,7 +30,7 @@ Overall score: **4.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/20 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.7.0` (2026-09-08)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-15
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 6,956 · **Forks**: 258 · **Open issues**: 485 · **Contributors**: 102
+- **Stars**: 6,958 · **Forks**: 258 · **Open issues**: 485 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 155 · **Merged PRs**: 549 · **Open PRs**: 1 · **Closed issues**: 480 · **Open issues**: 5 · **Commits**: 1746
+- **Releases**: 155 · **Merged PRs**: 550 · **Open PRs**: 1 · **Closed issues**: 480 · **Open issues**: 5 · **Commits**: 1747
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 14 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 34 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 87 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-17 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 12 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 21 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 34 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 87 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:42Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:12:59Z._
