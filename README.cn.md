@@ -14,11 +14,11 @@ x install skim
 
 ## 代码洞察
 
-合计: **35,729** 行代码（覆盖前 5 种语言、共 **161** 个文件）。
+合计: **35,745** 行代码（覆盖前 5 种语言、共 **161** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 32,680 | 3,006 | 4,692 | 150 |
+| Rust | 32,696 | 3,006 | 4,694 | 150 |
 | Bash | 953 | 66 | 72 | 3 |
 | VimScript | 856 | 28 | 61 | 1 |
 | Zsh | 564 | 33 | 48 | 2 |
@@ -26,11 +26,11 @@ x install skim
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.6 / 10**
+总评分: **4.7 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/21 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 6/20 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,59 +42,59 @@ x install skim
 
 ## 发布
 
-- **最新版本**: `v5.7.0` (2026-09-08)
-- **最近提交**: 2026-09-15
+- **最新版本**: `v5.7.1` (2026-09-21)
+- **最近提交**: 2026-09-21
 - **Release 含资产**: 26 个
 
 ## 流行度
 
-- **Star**: 6,968 · **Fork**: 258 · **开放 issue**: 485 · **贡献者**: 103
+- **Star**: 6,968 · **Fork**: 258 · **开放 issue**: 486 · **贡献者**: 103
 
 ## 累计统计
 
-- **发布数**: 155 · **已合并 PR**: 550 · **开放 PR**: 1 · **已关闭 issue**: 480 · **开放 issue**: 5 · **提交数**: 1747
+- **发布数**: 156 · **已合并 PR**: 552 · **开放 PR**: 0 · **已关闭 issue**: 481 · **开放 issue**: 5 · **提交数**: 1749
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 21 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 34 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 87 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-01 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-26 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-27 | 88 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dist-manifest.json](https://github.com/lotabout/skim/releases/download/v5.7.0/dist-manifest.json) | 27.6 KiB | `other` |
-| [sha256.sum](https://github.com/lotabout/skim/releases/download/v5.7.0/sha256.sum) | 890 B | `other` |
-| [skim-5.7.0-1.aarch64.rpm](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-5.7.0-1.aarch64.rpm) | 2.2 MiB | `runtime/rpm/aarch64` |
-| [skim-5.7.0-1.x86_64.rpm](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-5.7.0-1.x86_64.rpm) | 2.6 MiB | `runtime/rpm/x86_64` |
-| [skim-aarch64-apple-darwin.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-aarch64-apple-darwin.tar.xz) | 1.8 MiB | `native/darwin/arm64` |
-| [skim-aarch64-apple-darwin.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-aarch64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/arm64` |
-| [skim-aarch64-unknown-linux-gnu.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-aarch64-unknown-linux-gnu.tar.xz) | 1.9 MiB | `native/linux/arm64/glibc` |
-| [skim-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-aarch64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/arm64/glibc` |
-| [skim-aarch64-unknown-linux-musl.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-aarch64-unknown-linux-musl.tar.xz) | 1.9 MiB | `native/linux/arm64/musl` |
-| [skim-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-aarch64-unknown-linux-musl.tar.xz.sha256) | 106 B | `native/linux/arm64/musl` |
-| [skim-installer.ps1](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-installer.ps1) | 21.6 KiB | `other` |
-| [skim-installer.sh](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-installer.sh) | 55.6 KiB | `other` |
-| [skim-x86_64-apple-darwin.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-apple-darwin.tar.xz) | 2.3 MiB | `native/darwin/x64` |
-| [skim-x86_64-apple-darwin.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/x64` |
-| [skim-x86_64-pc-windows-msvc.msi](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-pc-windows-msvc.msi) | 3.7 MiB | `native/win/x64` |
-| [skim-x86_64-pc-windows-msvc.msi.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-pc-windows-msvc.msi.sha256) | 99 B | `native/win/x64` |
-| [skim-x86_64-pc-windows-msvc.zip](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-pc-windows-msvc.zip) | 3.6 MiB | `native/win/x64` |
-| [skim-x86_64-pc-windows-msvc.zip.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/x64` |
-| [skim-x86_64-unknown-linux-gnu.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-gnu.tar.xz) | 2.4 MiB | `native/linux/x64/glibc` |
-| [skim-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/x64/glibc` |
-| [skim-x86_64-unknown-linux-musl.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-musl.tar.xz) | 2.5 MiB | `native/linux/x64/musl` |
-| [skim-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/skim-x86_64-unknown-linux-musl.tar.xz.sha256) | 105 B | `native/linux/x64/musl` |
-| [skim_5.7.0-1_amd64.deb](https://github.com/lotabout/skim/releases/download/v5.7.0/skim_5.7.0-1_amd64.deb) | 2.4 MiB | `runtime/deb/amd64` |
-| [skim_5.7.0-1_arm64.deb](https://github.com/lotabout/skim/releases/download/v5.7.0/skim_5.7.0-1_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
-| [source.tar.gz](https://github.com/lotabout/skim/releases/download/v5.7.0/source.tar.gz) | 1.2 MiB | `native/unknown` |
-| [source.tar.gz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.0/source.tar.gz.sha256) | 81 B | `other` |
+| [dist-manifest.json](https://github.com/lotabout/skim/releases/download/v5.7.1/dist-manifest.json) | 27.5 KiB | `other` |
+| [sha256.sum](https://github.com/lotabout/skim/releases/download/v5.7.1/sha256.sum) | 890 B | `other` |
+| [skim-5.7.1-1.aarch64.rpm](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-5.7.1-1.aarch64.rpm) | 2.2 MiB | `runtime/rpm/aarch64` |
+| [skim-5.7.1-1.x86_64.rpm](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-5.7.1-1.x86_64.rpm) | 2.6 MiB | `runtime/rpm/x86_64` |
+| [skim-aarch64-apple-darwin.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-aarch64-apple-darwin.tar.xz) | 1.8 MiB | `native/darwin/arm64` |
+| [skim-aarch64-apple-darwin.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-aarch64-apple-darwin.tar.xz.sha256) | 100 B | `native/darwin/arm64` |
+| [skim-aarch64-unknown-linux-gnu.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-aarch64-unknown-linux-gnu.tar.xz) | 1.9 MiB | `native/linux/arm64/glibc` |
+| [skim-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-aarch64-unknown-linux-gnu.tar.xz.sha256) | 105 B | `native/linux/arm64/glibc` |
+| [skim-aarch64-unknown-linux-musl.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-aarch64-unknown-linux-musl.tar.xz) | 1.9 MiB | `native/linux/arm64/musl` |
+| [skim-aarch64-unknown-linux-musl.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-aarch64-unknown-linux-musl.tar.xz.sha256) | 106 B | `native/linux/arm64/musl` |
+| [skim-installer.ps1](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-installer.ps1) | 21.6 KiB | `other` |
+| [skim-installer.sh](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-installer.sh) | 55.6 KiB | `other` |
+| [skim-x86_64-apple-darwin.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-apple-darwin.tar.xz) | 2.3 MiB | `native/darwin/x64` |
+| [skim-x86_64-apple-darwin.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-apple-darwin.tar.xz.sha256) | 99 B | `native/darwin/x64` |
+| [skim-x86_64-pc-windows-msvc.msi](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-pc-windows-msvc.msi) | 3.7 MiB | `native/win/x64` |
+| [skim-x86_64-pc-windows-msvc.msi.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-pc-windows-msvc.msi.sha256) | 99 B | `native/win/x64` |
+| [skim-x86_64-pc-windows-msvc.zip](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-pc-windows-msvc.zip) | 3.6 MiB | `native/win/x64` |
+| [skim-x86_64-pc-windows-msvc.zip.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-pc-windows-msvc.zip.sha256) | 99 B | `native/win/x64` |
+| [skim-x86_64-unknown-linux-gnu.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-unknown-linux-gnu.tar.xz) | 2.4 MiB | `native/linux/x64/glibc` |
+| [skim-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-unknown-linux-gnu.tar.xz.sha256) | 104 B | `native/linux/x64/glibc` |
+| [skim-x86_64-unknown-linux-musl.tar.xz](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-unknown-linux-musl.tar.xz) | 2.5 MiB | `native/linux/x64/musl` |
+| [skim-x86_64-unknown-linux-musl.tar.xz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/skim-x86_64-unknown-linux-musl.tar.xz.sha256) | 105 B | `native/linux/x64/musl` |
+| [skim_5.7.1-1_amd64.deb](https://github.com/lotabout/skim/releases/download/v5.7.1/skim_5.7.1-1_amd64.deb) | 2.4 MiB | `runtime/deb/amd64` |
+| [skim_5.7.1-1_arm64.deb](https://github.com/lotabout/skim/releases/download/v5.7.1/skim_5.7.1-1_arm64.deb) | 1.9 MiB | `runtime/deb/arm64` |
+| [source.tar.gz](https://github.com/lotabout/skim/releases/download/v5.7.1/source.tar.gz) | 1.2 MiB | `native/unknown` |
+| [source.tar.gz.sha256](https://github.com/lotabout/skim/releases/download/v5.7.1/source.tar.gz.sha256) | 81 B | `other` |
 
 ## 改进这些数据
 
@@ -105,4 +105,4 @@ skim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T05:07:43Z._
+_数据快照: `data/card/260922.yml` · 2026-09-22T05:12:26Z._
