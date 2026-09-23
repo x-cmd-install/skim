@@ -4,7 +4,7 @@
 
 Fuzzy Finder in rust!
 
-[![x-cmd/install — skim Code Quality Monitoring Repo Card](https://repo.x-cmd.io/skim.svg)](https://x-cmd.com/install/skim)
+[![x-cmd/install — skim Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/skim.svg)](https://x-cmd.com/install/skim)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 22 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 35 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 88 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-08-24 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 22 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 35 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 88 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:12:26Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:04:45Z._
