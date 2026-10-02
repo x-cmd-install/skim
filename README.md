@@ -14,11 +14,11 @@ x install skim
 
 ## Code insight
 
-Total: **35,785** lines of code across **162** files in the top 5 languages.
+Total: **35,797** lines of code across **162** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,736 | 3,007 | 4,698 | 151 |
+| Rust | 32,748 | 3,014 | 4,699 | 151 |
 | Bash | 953 | 66 | 72 | 3 |
 | VimScript | 856 | 28 | 61 | 1 |
 | Zsh | 564 | 33 | 48 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v5.7.2` (2026-09-27)
-- **Last commit**: 2026-09-27
+- **Last commit**: 2026-10-01
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 6,974 · **Forks**: 260 · **Open issues**: 487 · **Contributors**: 103
+- **Stars**: 6,974 · **Forks**: 261 · **Open issues**: 488 · **Contributors**: 103
 
 ## Totals (cumulative)
 
-- **Releases**: 157 · **Merged PRs**: 553 · **Open PRs**: 1 · **Closed issues**: 482 · **Open issues**: 5 · **Commits**: 1751
+- **Releases**: 157 · **Merged PRs**: 554 · **Open PRs**: 3 · **Closed issues**: 482 · **Open issues**: 6 · **Commits**: 1752
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-02 | 8 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-03 | 20 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-04 | 31 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-06 | 89 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-11 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-02 | 3 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-03 | 8 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-04 | 20 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-05 | 31 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-07 | 89 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-12 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:56:21Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:44:36Z._
