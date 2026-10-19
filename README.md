@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,996 · **Forks**: 263 · **Open issues**: 491 · **Contributors**: 105
+- **Stars**: 6,996 · **Forks**: 264 · **Open issues**: 492 · **Contributors**: 105
 
 ## Totals (cumulative)
 
-- **Releases**: 159 · **Merged PRs**: 560 · **Open PRs**: 2 · **Closed issues**: 484 · **Open issues**: 7 · **Commits**: 1758
+- **Releases**: 159 · **Merged PRs**: 560 · **Open PRs**: 3 · **Closed issues**: 484 · **Open issues**: 8 · **Commits**: 1758
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 14 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-21 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-23 | 91 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-28 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-19 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-21 | 13 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-22 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-24 | 91 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-29 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T04:37:51Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T04:45:15Z._
