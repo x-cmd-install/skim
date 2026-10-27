@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/20 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,002 · **Forks**: 265 · **Open issues**: 493 · **Contributors**: 107
+- **Stars**: 7,000 · **Forks**: 265 · **Open issues**: 494 · **Contributors**: 107
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 570 · **Open PRs**: 2 · **Closed issues**: 488 · **Open issues**: 5 · **Commits**: 1768
+- **Releases**: 160 · **Merged PRs**: 570 · **Open PRs**: 3 · **Closed issues**: 488 · **Open issues**: 6 · **Commits**: 1768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 4 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-27 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-28 | 11 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-29 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-31 | 92 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-05 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-09-27 | 4 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-28 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-29 | 11 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-30 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-01 | 92 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-06 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:54:39Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:08:47Z._
