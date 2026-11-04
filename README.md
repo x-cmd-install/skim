@@ -30,7 +30,7 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 7/20 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 7/19 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,002 · **Forks**: 264 · **Open issues**: 494 · **Contributors**: 107
+- **Stars**: 7,004 · **Forks**: 265 · **Open issues**: 494 · **Contributors**: 107
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-04 | 7 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-05 | 12 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-07 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-08 | 93 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-13 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-05 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-05 | 7 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-06 | 12 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-08 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-09 | 93 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-14 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:04:16Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:26:38Z._
