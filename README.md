@@ -33,27 +33,27 @@ Total: **37,391** lines of code across **165** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v5.9.0` (2026-10-27)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-10
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 7,006 · **Forks**: 264 · **Open issues**: 496 · **Contributors**: 107
+- **Stars**: 7,010 · **Forks**: 264 · **Open issues**: 496 · **Contributors**: 107
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 575 · **Open PRs**: 3 · **Closed issues**: 489 · **Open issues**: 7 · **Commits**: 1774
+- **Releases**: 161 · **Merged PRs**: 576 · **Open PRs**: 2 · **Closed issues**: 489 · **Open issues**: 7 · **Commits**: 1775
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 2 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-11 | 6 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-12 | 9 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-14 | 30 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-15 | 93 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-20 | 100 | 0 | 0 | 0 | 0 | 0 |
+| 30d | 2026-10-12 | 2 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-12 | 6 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-13 | 9 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-15 | 30 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-11-16 | 93 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-11-21 | 100 | 0 | 0 | 0 | 0 | 0 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for skim lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:24:45Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:21:03Z._
